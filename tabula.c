@@ -29,7 +29,7 @@ void tabula(int v){
 /*Para testar*/
 int main(int argc, char const *argv[])
 {
-	//fixo como 2
+	//fixo 2
 	tabula(2);
 	return 0;
 }
